@@ -3,7 +3,11 @@ selalu bersama, tak bisa bersatu
 Kita mati bagai tak berjiwa
 Bergerak karena kaki manusia
 <<<<<<< HEAD
+<<<<<<< HEAD
 Kamu sang sepatu kiri
+=======
+Ku tak masalah bila terkena hujan
+>>>>>>> c58b7dfe416ddf1f18f5539a78fbebfdd6ba9059
 =======
 <<<<<<< HEAD
 Aku sang sepatu kananmu
