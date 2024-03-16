@@ -2,4 +2,20 @@ Kita adalah sepasang sepatu
 selalu bersama, tak bisa bersatu
 Kita mati bagai tak berjiwa
 Bergerak karena kaki manusia
+<<<<<<< HEAD
 Ku senang bila diajak berlari kencang
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Kamu sang sepatu kiri
+=======
+Ku tak masalah bila terkena hujan
+>>>>>>> c58b7dfe416ddf1f18f5539a78fbebfdd6ba9059
+=======
+<<<<<<< HEAD
+Aku sang sepatu kananmu
+=======
+tapi aku takut kamu kelelahan
+>>>>>>> 303c374edf14b4d3f01f73217dcf0868adbefeb9
+>>>>>>> 3dba6e2c3052f5ff9c6f2d272095f7f0afaf8ab2
+>>>>>>> d11b9cbeec6bd8dc6ce7bd7cc08c27c9d1f7a6ad
