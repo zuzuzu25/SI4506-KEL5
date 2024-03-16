@@ -2,4 +2,8 @@ Kita adalah sepasang sepatu
 selalu bersama, tak bisa bersatu
 Kita mati bagai tak berjiwa
 Bergerak karena kaki manusia
+<<<<<<< HEAD
 Aku sang sepatu kananmu
+=======
+tapi aku takut kamu kelelahan
+>>>>>>> 303c374edf14b4d3f01f73217dcf0868adbefeb9
